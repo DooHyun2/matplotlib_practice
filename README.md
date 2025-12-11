@@ -1,4 +1,4 @@
-<img width="719" height="560" alt="image" src="https://github.com/user-attachments/assets/16260402-dd21-4abd-84bd-60de83730c3d" />
+<img width="360" height="280" alt="image" src="https://github.com/user-attachments/assets/16260402-dd21-4abd-84bd-60de83730c3d" />
 
 
 Synthetic LLZO data used to explore basic conductivity trends with dopant fraction.
